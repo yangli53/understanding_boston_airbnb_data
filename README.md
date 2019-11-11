@@ -4,7 +4,7 @@
 
 I used to be a superhost on Airbnb just by occasionally leasing my house. I also have great experience with Airbnb as a guest. After moving to Boston, I want to learn the trends of local Airbnb and seek potential opportunies to be a host again. I will address the following three questions:
 
-1. Which neighbourhood is most popular? Which neighbourhood is most expensive?
+1. Which neighborhood is most popular? Which neighborhood is most expensive?
 2. Which features of the property influence the price most?
 3. Which aspect of the property do guests care the most according to their ratings?
 
