@@ -8,7 +8,7 @@ I used to be a superhost on Airbnb just by occasionally leasing my house. I also
 2. Which features of the property influence the price most?
 3. Which aspect of the property do guests care the most according to their ratings?
 
-## Dataset Description  ##
+## Dataset Description ##
 
 The dataset I used comes from insideairbnb.com. This is a non-commercial website that provides scraped Airbnb listings, reviews and calendar data from major cities around the world. People can use the data to understand how Airbnb is being used in these cities.
 
